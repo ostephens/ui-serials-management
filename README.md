@@ -44,5 +44,3 @@ Read the [Stripes Module Developer's Guide](https://github.com/folio-org/stripes
 Other [modules](https://dev.folio.org/source-code/#client-side).
 
 Other FOLIO Developer documentation is at [dev.folio.org](https://dev.folio.org/)
-
-### Optional dependencies
